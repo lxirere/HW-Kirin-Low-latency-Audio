@@ -10,7 +10,7 @@ The module supports operation on the following models:
 Sound card (Mandatory) : hi3660_hi6430_Card<br>
 This can be seen in hardware-audio with Root permissions in Devcheck<br>
 Support processor: Kirin 960, Kirin 970, Kirin 980(?)<br>
-You can also use it on other processors to turn off those sound effects<br><br>
+You may can also use it on other processors to turn off those sound effects<br><br>
 
 How it Works:
 ----
