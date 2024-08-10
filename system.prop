@@ -1,0 +1,12 @@
+persist.kirin.media.lowlatency.enable=true
+persist.media.lowlatency.enable=true
+ro.config.hw_lowlatency=true
+persist.kirin.media.offload.enable=true
+persist.kirin.media.hires.enable=true
+ro.config.hw_sws=false
+ro.config.hw_dts_settings=false
+ro.config.hw_dts=false
+ro.config.hw_dtsmode=false
+ro.config.hw_music_dts=false
+persist.sys.dts=false
+ro.config.hw_dolby=false
