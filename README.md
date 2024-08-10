@@ -10,7 +10,7 @@ The module supports operation on the following models:
 Sound card (Mandatory) : hi3660_hi6430_Card<br>
 This can be seen in hardware-audio with Root permissions in Devcheck<br>
 Support processor: Kirin 960, Kirin 970, Kirin 980(?)<br>
-You can also use it on other processors to turn off those sounds<br><br>
+You can also use it on other processors to turn off those sound effects<br><br>
 
 How it Works:
 ----
@@ -30,7 +30,7 @@ Audio playback power consumption is reduced<br><br>
 
 Negative effects:
 ----
-Built-in sound will be turned off (disable the module and restart the system to recover)<br>
+Sound effects will be turned off (disable the module and restart the system to recover)<br>
 Some devices cannot output normal audio (the problem is not supported by the device)<br>
 The results may vary depending on the hardware and software of the device.<br><br>
 
